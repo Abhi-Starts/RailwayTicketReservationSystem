@@ -59,13 +59,13 @@ The system is divided into the following major modules:
 
 # Key Features
 
-* 🔐 Secure User Authentication
-* 🎟️ Train Search & Booking
-* 📊 Dynamic Seat Availability
-* 📑 Automated Reporting
-* 🗂️ Normalized Relational Database
-* ⚡ Optimized Queries with Indexing
-* 🔄 Real-time Data Updates
+*  Secure User Authentication
+*  Train Search & Booking
+*  Dynamic Seat Availability
+*  Automated Reporting
+*  Normalized Relational Database
+*  Optimized Queries with Indexing
+*  Real-time Data Updates
 
 ---
 
